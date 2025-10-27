@@ -1,5 +1,5 @@
-Project Instructions
-Applying Machine Learning to Asset Pricing problems helps us to discover non-linear relationships between economic variables and financial market regimes.
+Project Instructions: applying Machine Learning to Asset Pricing problems helps us to discover non-linear relationships between economic variables and financial market regimes.
+
 There are 3 data objects in the data folder:
 
 • X_train.csv: This file contains various features related to the EU, US, and JPN markets, as well as short-term interest rates and two key commodities (Gold and Oil).
